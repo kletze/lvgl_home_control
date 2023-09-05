@@ -34,6 +34,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/stefan/esp-idf_5.0/projects/home_lvgl/build/bootloader/esp-idf/soc/esp32/cmake_install.cmake")
+  include("/home/stefan/esp-idf_5.0/projects/lvgl_home_control/build/bootloader/esp-idf/soc/esp32/cmake_install.cmake")
 endif()
 

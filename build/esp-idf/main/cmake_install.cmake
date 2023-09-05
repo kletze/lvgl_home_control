@@ -1,4 +1,4 @@
-# Install script for directory: /home/stefan/esp-idf_5.0/projects/home_lvgl/main
+# Install script for directory: /home/stefan/esp-idf_5.0/projects/lvgl_home_control/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
